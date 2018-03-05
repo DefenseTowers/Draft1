@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\veste\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx\1.9.8\a35a0076fbce873f9c2d5a1a1c8066244231bb3c\gdx-1.9.8.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="a35a0076fbce873f9c2d5a1a1c8066244231bb3c">
+        <dex dex="F:\workspace\projects\android\cotd\android\build\intermediates\transforms\dex\debug\folders\1000\10\gdx-1.9.8_fc2eda91b98ffe4c8d3819f773df4b3c097d7808\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\workspace\projects\android\cotd\android\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="ec673094b17eefbbb88c34b2a7bfb2bb23f60357">
+        <dex dex="F:\workspace\projects\android\cotd\android\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_d117bc298785411fcbf85b03a8522017dd4d968e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\veste\.gradle\caches\modules-2\files-2.1\com.badlogicgames.ashley\ashley\1.7.0\a7c4083c0a42027a3c03ba7ccecef6cbe1c5f0a4\ashley-1.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="a7c4083c0a42027a3c03ba7ccecef6cbe1c5f0a4">
+        <dex dex="F:\workspace\projects\android\cotd\android\build\intermediates\transforms\dex\debug\folders\1000\10\ashley-1.7.0_f6bf337d3e46ecbd520cab5d5991dd1d37eedf0e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\veste\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-box2d\1.9.8\6f0497b7958216464101adfb7bdc3a0f7b88d6d3\gdx-box2d-1.9.8.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="6f0497b7958216464101adfb7bdc3a0f7b88d6d3">
+        <dex dex="F:\workspace\projects\android\cotd\android\build\intermediates\transforms\dex\debug\folders\1000\10\gdx-box2d-1.9.8_67889239abac1e04d804241a16f52cb2e51002c7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\veste\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-backend-android\1.9.8\84024cd60ad6f26370891fbcd17de9f0167e662\gdx-backend-android-1.9.8.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="084024cd60ad6f26370891fbcd17de9f0167e662">
+        <dex dex="F:\workspace\projects\android\cotd\android\build\intermediates\transforms\dex\debug\folders\1000\10\gdx-backend-android-1.9.8_cd7735e96d5810dcd0c348b5e612ad6cca01ae52\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\workspace\projects\android\cotd\android\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="ac32638208192cc3f943841b424815121d4728b8">
+        <dex dex="F:\workspace\projects\android\cotd\android\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_7688a263ceb21eed294fe01384aa0b0132910e31\classes.dex" />
+    </item>
+
+</items>

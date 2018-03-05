@@ -1,0 +1,4 @@
+#Sat Mar 03 17:48:00 CET 2018
+base.0=F\:\\workspace\\projects\\android\\cotd\\android\\build\\intermediates\\transforms\\dexMerger\\debug\\8
+path.0=classes.dex
+renamed.0=classes.dex
